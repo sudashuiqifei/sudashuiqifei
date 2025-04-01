@@ -1,4 +1,3 @@
-Hyu/README.md
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudashuiqifei)
 
@@ -9,6 +8,9 @@ Hyu/README.md
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If+you+can't+explain+it+simply;you+don't+understand+it+well+enough)
 
 ![](https://stats.justsong.cn/api/github?username=sudashuiqifei)
+
+
+https://stats.justsong.cn/api/leetcode?username=jia-bei-ri-li&cn=true
 
 - 🔭 技术栈
 
