@@ -6,7 +6,7 @@ Hyu/README.md
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudashuiqifei)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If+you+can't+explain+it+simply;you+don't+understand+it+well+enough)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If+you+can't+explain+it+simply+,+you+don't+understand+it+well+enough)
 
 - 🔭 技术栈
 
