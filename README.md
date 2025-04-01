@@ -1,4 +1,9 @@
 Hyu/README.md
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudashuiqifei)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudashuiqifei)
+
 - 🔭 技术栈
 
 
